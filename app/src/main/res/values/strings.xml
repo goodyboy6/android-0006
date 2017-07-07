@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-0706</string>
+    <string name="simple_dialog">this is alert</string>
+    <string name="dialog_message">this is message</string>
+    <string name="postive_button">postive button</string>
+    <string name="negative_button">postive button</string>
+</resources>
